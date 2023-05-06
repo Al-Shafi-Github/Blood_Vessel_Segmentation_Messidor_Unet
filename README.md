@@ -1,2 +1,6 @@
-# Blood_Vessel_Segmentation_Messidor_Unet
-Blood Vessel Segmentation was done on Messidor Dataset. Using the weights of a model which was trained on Drive2004 Dataset and ChaseDB
+# Blood_Vessel_Segmentation Using Unet Architecture
+Blood Vessel Segmentation of Diabetic Retinopathy Fundus Image. The dataset on the Unet model Tested is Messidor
+<h2>Here is the segmented image picture<h2>
+
+<img src="https://user-images.githubusercontent.com/68460013/236637898-1d44d7eb-ba8e-4a7e-967f-916d754c20b4.png" alt="Segmented Image">
+
