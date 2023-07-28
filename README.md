@@ -20,7 +20,7 @@ Our project focuses on leveraging the UNet architecture to perform pixel-wise se
 </ul>
 
 Unet architecture:
-<img src= "https://www.mdpi.com/machines/machines-10-00327/article_deploy/html/images/machines-10-00327-g001.png" alt= "Unet Arch")
+<img src= "https://www.mdpi.com/machines/machines-10-00327/article_deploy/html/images/machines-10-00327-g001.png" alt= "Unet Arch">
 
 
 
